@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfdead.png">
+<SubTexture name="gf speaker instance 0000" x="0" y="0" width="616" height="232" frameX="0" frameY="-1" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0001" x="0" y="0" width="616" height="232" frameX="0" frameY="-1" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0002" x="0" y="464" width="613" height="226" frameX="-3" frameY="-7" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0003" x="613" y="464" width="612" height="226" frameX="-4" frameY="-7" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0004" x="0" y="232" width="611" height="232" frameX="-4" frameY="-1" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0005" x="0" y="232" width="611" height="232" frameX="-4" frameY="-1" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0006" x="616" y="0" width="611" height="228" frameX="-4" frameY="-5" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0007" x="616" y="0" width="611" height="228" frameX="-4" frameY="-4" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0008" x="616" y="228" width="611" height="228" frameX="-4" frameY="-5" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0009" x="616" y="228" width="611" height="228" frameX="-4" frameY="-4" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0010" x="616" y="228" width="611" height="228" frameX="-4" frameY="-4" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0011" x="616" y="228" width="611" height="228" frameX="-4" frameY="-4" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0012" x="616" y="228" width="611" height="228" frameX="-4" frameY="-4" frameWidth="616" frameHeight="233" />
+<SubTexture name="gf speaker instance 0013" x="616" y="228" width="611" height="228" frameX="-4" frameY="-4" frameWidth="616" frameHeight="233" />
+</TextureAtlas>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="P.png">
+<SubTexture name="P Down0000" x="2555" y="1815" width="358" height="355" frameX="-738" frameY="-677" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0001" x="462" y="2173" width="358" height="355" frameX="-738" frameY="-677" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0002" x="0" y="2553" width="362" height="346" frameX="-738" frameY="-677" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0003" x="362" y="2553" width="362" height="346" frameX="-738" frameY="-677" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0004" x="724" y="2553" width="364" height="346" frameX="-738" frameY="-677" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0005" x="1947" y="2173" width="364" height="351" frameX="-738" frameY="-672" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0006" x="2311" y="2173" width="365" height="351" frameX="-737" frameY="-672" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0007" x="820" y="2173" width="364" height="352" frameX="-737" frameY="-671" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Down0008" x="1184" y="2173" width="365" height="352" frameX="-736" frameY="-671" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0000" x="0" y="2173" width="462" height="380" frameX="-700" frameY="-653" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0001" x="0" y="1384" width="464" height="397" frameX="-698" frameY="-639" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0002" x="464" y="1384" width="458" height="397" frameX="-699" frameY="-635" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0003" x="1362" y="1384" width="455" height="394" frameX="-695" frameY="-633" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0004" x="406" y="1781" width="454" height="391" frameX="-692" frameY="-633" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0005" x="922" y="1384" width="440" height="395" frameX="-699" frameY="-628" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0006" x="2115" y="0" width="440" height="393" frameX="-698" frameY="-630" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Idle0007" x="2115" y="1179" width="440" height="392" frameX="-697" frameY="-631" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0000" x="667" y="520" width="398" height="398" frameX="-730" frameY="-625" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0001" x="860" y="1781" width="406" height="389" frameX="-716" frameY="-633" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0002" x="2115" y="393" width="406" height="393" frameX="-715" frameY="-630" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0003" x="0" y="0" width="525" height="520" frameX="-596" frameY="-503" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0004" x="2115" y="786" width="406" height="393" frameX="-716" frameY="-630" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0005" x="0" y="1781" width="406" height="392" frameX="-717" frameY="-630" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0006" x="1266" y="1781" width="406" height="388" frameX="-716" frameY="-634" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0007" x="1672" y="1781" width="406" height="388" frameX="-717" frameY="-634" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0008" x="2078" y="1781" width="406" height="386" frameX="-717" frameY="-636" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Right0009" x="2555" y="0" width="406" height="386" frameX="-718" frameY="-636" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0000" x="1130" y="0" width="490" height="421" frameX="-566" frameY="-602" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0001" x="1130" y="421" width="490" height="410" frameX="-566" frameY="-613" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0002" x="1620" y="0" width="495" height="410" frameX="-583" frameY="-614" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0003" x="1620" y="410" width="495" height="409" frameX="-583" frameY="-614" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0004" x="1620" y="819" width="495" height="409" frameX="-583" frameY="-614" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0005" x="495" y="968" width="496" height="414" frameX="-582" frameY="-610" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0006" x="0" y="520" width="667" height="448" frameX="-582" frameY="-576" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0007" x="525" y="0" width="605" height="449" frameX="-583" frameY="-575" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0008" x="0" y="968" width="495" height="416" frameX="-583" frameY="-608" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Left0009" x="991" y="968" width="495" height="414" frameX="-583" frameY="-610" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Up0000" x="1549" y="2173" width="398" height="352" frameX="-699" frameY="-671" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Up0001" x="2555" y="1103" width="388" height="356" frameX="-709" frameY="-667" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Up0002" x="2555" y="1459" width="391" height="356" frameX="-708" frameY="-667" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Up0003" x="2555" y="745" width="393" height="358" frameX="-707" frameY="-665" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="P Up0004" x="2555" y="386" width="392" height="359" frameX="-708" frameY="-664" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
