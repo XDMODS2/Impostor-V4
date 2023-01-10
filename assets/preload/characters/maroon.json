@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				-215
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "M Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-144
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "M Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				-213
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "M Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-220
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "M Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				93,
+				-165
+			],
+			"anim": "idle-loop",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				-165
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "M Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				94,
+				-165
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "hey",
+			"indices": [],
+			"name": "M Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maroon",
+	"position": [
+		-400,
+		-450
+	],
+	"healthicon": "maroon",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		35,
+		47
+	],
+	"camera_position": [
+		-310,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
