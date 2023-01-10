@@ -1,8 +1,6 @@
 {
 	"songs": [
-		["Delusion", "gray", [117, 103, 137]],
-		["Blackout", "gray", [117, 103, 137]],
-		["Neurotic", "gray", [117, 103, 137]]
+		["Tomongus Tuesday", "tuesday", [255, 103, 112]]
 	],
 
 	"weekCharacters": [
@@ -12,9 +10,9 @@
 	],
 	"weekBackground": "",
 
-	"storyName": "Deadly Delusion",
+	"storyName": "",
 	"weekBefore": "",
-	"weekName": "Week 6",
+	"weekName": "...",
 	"startUnlocked": true,
 	"difficulties": "hard",
 	"hideStoryMode": false,
