@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Negro silla.png">
+<SubTexture name="Negro silla idle0000" x="152" y="297" width="152" height="292" frameX="-80" frameY="-412" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro silla idle0001" x="0" y="297" width="152" height="293" frameX="-79" frameY="-411" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro silla idle0002" x="457" y="0" width="152" height="295" frameX="-76" frameY="-409" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro silla idle0003" x="0" y="0" width="152" height="297" frameX="-75" frameY="-407" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro silla idle0004" x="152" y="0" width="152" height="297" frameX="-75" frameY="-407" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro silla idle0005" x="304" y="0" width="153" height="297" frameX="-75" frameY="-407" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wtf y este random.png">
+<SubTexture name="wtf y este random idle0000" x="0" y="414" width="275" height="411" frameX="-420" frameY="-304" frameWidth="1280" frameHeight="720" />
+<SubTexture name="wtf y este random idle0001" x="545" y="0" width="277" height="412" frameX="-419" frameY="-306" frameWidth="1280" frameHeight="720" />
+<SubTexture name="wtf y este random idle0002" x="275" y="414" width="273" height="411" frameX="-420" frameY="-304" frameWidth="1280" frameHeight="720" />
+<SubTexture name="wtf y este random idle0003" x="548" y="414" width="272" height="411" frameX="-420" frameY="-298" frameWidth="1280" frameHeight="720" />
+<SubTexture name="wtf y este random idle0004" x="822" y="0" width="272" height="412" frameX="-420" frameY="-297" frameWidth="1280" frameHeight="720" />
+<SubTexture name="wtf y este random idle0005" x="272" y="0" width="273" height="413" frameX="-420" frameY="-296" frameWidth="1280" frameHeight="720" />
+<SubTexture name="wtf y este random idle0006" x="0" y="0" width="272" height="414" frameX="-420" frameY="-295" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

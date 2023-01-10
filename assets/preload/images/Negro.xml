@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Negro.png">
+<SubTexture name="Negro idle0000" x="0" y="0" width="452" height="375" frameX="-121" frameY="-341" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0001" x="0" y="748" width="459" height="369" frameX="-123" frameY="-346" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0002" x="459" y="748" width="459" height="369" frameX="-123" frameY="-346" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0003" x="1348" y="0" width="464" height="367" frameX="-121" frameY="-349" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0004" x="1348" y="367" width="456" height="367" frameX="-123" frameY="-348" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0005" x="446" y="375" width="450" height="372" frameX="-124" frameY="-343" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0006" x="898" y="0" width="450" height="372" frameX="-124" frameY="-343" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0007" x="452" y="0" width="446" height="374" frameX="-126" frameY="-341" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Negro idle0008" x="0" y="375" width="446" height="373" frameX="-126" frameY="-341" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

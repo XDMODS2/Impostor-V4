@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Blue dead.png">
+<SubTexture name="Blue dead idle0000" x="0" y="146" width="233" height="139" frameX="-147" frameY="-464" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Blue dead idle0001" x="233" y="146" width="231" height="139" frameX="-147" frameY="-464" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Blue dead idle0002" x="0" y="285" width="227" height="139" frameX="-147" frameY="-463" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Blue dead idle0003" x="232" y="0" width="232" height="145" frameX="-151" frameY="-458" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Blue dead idle0004" x="0" y="0" width="232" height="146" frameX="-151" frameY="-456" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

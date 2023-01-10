@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tomatomongus.png">
+<SubTexture name="tomatomongus idle0000" x="725" y="0" width="248" height="263" frameX="-636" frameY="-416" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tomatomongus idle0001" x="0" y="535" width="249" height="262" frameX="-636" frameY="-417" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tomatomongus idle0002" x="244" y="268" width="247" height="264" frameX="-637" frameY="-415" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tomatomongus idle0003" x="0" y="268" width="244" height="267" frameX="-639" frameY="-412" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tomatomongus idle0004" x="0" y="0" width="241" height="268" frameX="-640" frameY="-411" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tomatomongus idle0005" x="241" y="0" width="242" height="268" frameX="-640" frameY="-411" frameWidth="1280" frameHeight="720" />
+<SubTexture name="tomatomongus idle0006" x="483" y="0" width="242" height="268" frameX="-640" frameY="-411" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

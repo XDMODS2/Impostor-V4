@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gf_dead_p.png">
+<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="700" height="469" frameX="-1" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0001" x="700" y="0" width="703" height="469" frameX="0" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0002" x="700" y="0" width="703" height="469" frameX="0" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0003" x="0" y="469" width="700" height="469" frameX="-1" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0004" x="0" y="0" width="700" height="469" frameX="0" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0005" x="0" y="0" width="700" height="469" frameX="0" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0006" x="0" y="0" width="700" height="469" frameX="0" frameY="0" frameWidth="703" frameHeight="469" />
+<SubTexture name="GF Dancing Beat0007" x="0" y="0" width="700" height="469" frameX="0" frameY="0" frameWidth="703" frameHeight="469" />
+</TextureAtlas>
